@@ -1,1 +1,1 @@
-# kaywex.dev
+# kaywex
